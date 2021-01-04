@@ -1,0 +1,15 @@
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.csprojAssemblyReference.cache
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\MainWindow.g.cs
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\App.g.cs
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.cache
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient_MarkupCompile.lref
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\MainWindow.baml
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.g.resources
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.Properties.Resources.resources
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.GenerateResource.cache
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.CoreCompileInputs.cache
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\taken\source\repos\cs\FTPClient\FTPClient\obj\Debug\FTPClient.pdb
